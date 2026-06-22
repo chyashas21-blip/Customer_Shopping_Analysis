@@ -1,4 +1,4 @@
-# Customer_Shopping_Behavior_Analysis
+# Customer Shopping Behavior Analysis
 📌 Overview
 This end-to-end data analytics project explores a consumer dataset containing 3,900 transactions across 18 behavioral attributes. The primary objective is to help a leading retail company uncover critical spending patterns, evaluate customer loyalty segments, and pinpoint product preferences. By transforming raw behavioral inputs into structured database segments and interactive dashboard visualizers, this project delivers data-driven marketing strategies to increase subscription rates and optimize promotional campaigns.
 
